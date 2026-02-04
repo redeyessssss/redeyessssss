@@ -2,12 +2,30 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;AI+%26+Computer+Vision+Enthusiast+%F0%9F%A4%96;Building+Innovative+Solutions+%F0%9F%9A%80;Always+Learning+New+Things+%F0%9F%93%9A)](https://git.io/typing-svg)
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20To%20My%20Profile&fontSize=42&fontAlignY=32&animation=twinkling&fontColor=gradient" width="100%"/>
+  
+</div>
+
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;AI+%26+Computer+Vision+Enthusiast+%F0%9F%A4%96;Building+Innovative+Solutions+%F0%9F%9A%80;Always+Learning+New+Things+%F0%9F%93%9A;Open+Source+Contributor+%E2%9C%A8;Problem+Solver+%F0%9F%A7%A9)](https://git.io/typing-svg)
   
   ![Profile Views](https://komarev.com/ghpvc/?username=redeyessssss&color=blueviolet&style=flat-square)
   [![GitHub followers](https://img.shields.io/github/followers/redeyessssss?label=Follow&style=social)](https://github.com/redeyessssss)
   
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🎵 Spotify Playing Now
+
+<div align="center">
+  
+  [![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
+  
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🚀 About Me
 
@@ -26,6 +44,8 @@ I'm a passionate developer focused on building innovative solutions that solve r
 ## 🛠️ Tech Stack
 
 <div align="center">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -61,6 +81,8 @@ I'm a passionate developer focused on building innovative solutions that solve r
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 </div>
 
 <div align="center">
@@ -69,7 +91,34 @@ I'm a passionate developer focused on building innovative solutions that solve r
   
 </div>
 
+## 🔥 Skill Progress Bars
+
+<div align="center">
+
+```text
+Python           ████████████████████░   95%
+JavaScript       ███████████████████░░   90%
+React            ██████████████████░░░   85%
+Node.js          ██████████████████░░░   85%
+Computer Vision  █████████████████░░░░   80%
+AI/ML            ████████████████░░░░░   75%
+Docker           ███████████████░░░░░░   70%
+DevOps           ██████████████░░░░░░░   65%
+```
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## 🌟 Featured Projects
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Check+Out+My+Amazing+Projects!+%F0%9F%9A%80;Built+With+Passion+%E2%9D%A4%EF%B8%8F;Open+For+Collaboration+%F0%9F%A4%9D" alt="Typing SVG" />
+  
+</div>
 
 ### 🔐 [TimeTrap](https://github.com/redeyessssss/timetrap)
 > Smart PC Lock System for macOS with facial recognition security. Automatically locks your Mac when you're away or detects unauthorized users.
@@ -120,7 +169,17 @@ I'm a passionate developer focused on building innovative solutions that solve r
 
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## 📊 GitHub Stats
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&text=My%20GitHub%20Statistics&fontSize=30&fontAlignY=70&animation=fadeIn&fontColor=gradient" width="100%"/>
+  
+</div>
 
 <div align="center">
   
@@ -133,7 +192,7 @@ I'm a passionate developer focused on building innovative solutions that solve r
 
 <div align="center">
   
-  <img src="https://streak-stats.demolab.com?user=redeyessssss&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" width="100%"/>
+  <img src="https://streak-stats.demolab.com?user=redeyessssss&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=800" alt="GitHub Streak Stats"/>
   
 </div>
 
@@ -143,7 +202,11 @@ I'm a passionate developer focused on building innovative solutions that solve r
   
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## 🎯 Detailed GitHub Stats
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
   
@@ -155,7 +218,19 @@ I'm a passionate developer focused on building innovative solutions that solve r
   
 </div>
 
+## 🎮 3D Contribution Calendar
+
+<div align="center">
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=redeyessssss&custom_title=Anupom's%20Contribution%20Graph&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
+  
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## 📈 Contribution Activity
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
   
@@ -163,7 +238,11 @@ I'm a passionate developer focused on building innovative solutions that solve r
   
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## 🐍 Contribution Snake
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
   
@@ -174,6 +253,8 @@ I'm a passionate developer focused on building innovative solutions that solve r
   </picture>
   
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🌍 Profile Views
 
@@ -331,8 +412,10 @@ Other        30 mins         █░░░░░░░░░░░░░░░░
 
 <div align="center">
   
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+  
   ### 💡 "Code is like humor. When you have to explain it, it's bad." – Cory House
   
-  ### ⚡ Thanks for visiting! Let's connect and build something amazing together! ⚡
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+%E2%AD%90;Let's+connect+and+build+together!+%F0%9F%9A%80;Happy+Coding!+%F0%9F%92%BB" alt="Typing SVG" />
   
 </div>

@@ -2,6 +2,8 @@
 
 <div align="center">
   
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;AI+%26+Computer+Vision+Enthusiast+%F0%9F%A4%96;Building+Innovative+Solutions+%F0%9F%9A%80;Always+Learning+New+Things+%F0%9F%93%9A)](https://git.io/typing-svg)
+  
   ![Profile Views](https://komarev.com/ghpvc/?username=redeyessssss&color=blueviolet&style=flat-square)
   [![GitHub followers](https://img.shields.io/github/followers/redeyessssss?label=Follow&style=social)](https://github.com/redeyessssss)
   
@@ -76,21 +78,27 @@ My personal portfolio showcasing projects and skills.
 
 <div align="center">
   
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=redeyessssss&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph)
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=redeyessssss&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph" width="100%"/>
   
 </div>
 
-## 🐍 Watch My Contributions Get Eaten!
+## 🐍 Contribution Snake Animation
 
 <div align="center">
-  
-  ![Snake animation](https://raw.githubusercontent.com/redeyessssss/redeyessssss/output/github-contribution-grid-snake.svg)
   
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/redeyessssss/redeyessssss/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/redeyessssss/redeyessssss/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/redeyessssss/redeyessssss/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/redeyessssss/redeyessssss/output/github-contribution-grid-snake.svg" width="100%">
   </picture>
+  
+</div>
+
+## 🔥 Contribution Heatmap
+
+<div align="center">
+  
+  <img src="https://ghchart.rshah.org/redeyessssss" alt="GitHub Contribution Chart" width="100%"/>
   
 </div>
 

@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 I'm a passionate developer focused on building innovative solutions that solve real-world problems. From security systems to web applications, I love exploring new technologies and creating impactful projects.
 
@@ -117,8 +117,7 @@ My personal portfolio showcasing projects and skills.
 
 <div align="center">
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=redeyessssss&theme=radical&hide_border=true" alt="GitHub Streak" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=redeyessssss&theme=radical&hide_border=true&layout=compact" alt="WakaTime Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=redeyessssss&theme=radical&hide_border=true" alt="GitHub Streak" width="100%"/>
   
 </div>
 
@@ -136,23 +135,27 @@ My personal portfolio showcasing projects and skills.
   
 </div>
 
-## 🎯 GitHub Metrics
+## 🎯 Detailed GitHub Stats
 
 <div align="center">
   
-  <img src="https://metrics.lecoq.io/redeyessssss?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&lines=1&people=1&activity=1&achievements=1&notable=1&discussions=1&followup=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&discussions.categories=true&followup.sections=repositories&config.timezone=Asia%2FKolkata" alt="GitHub Metrics" width="100%"/>
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=redeyessssss&theme=radical)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=redeyessssss&theme=radical)
+  
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=redeyessssss&theme=radical)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=redeyessssss&theme=radical)
   
 </div>
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
 <div align="center">
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=redeyessssss&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=redeyessssss&theme=react-dark&hide_border=true&area=true" width="100%"/>
   
 </div>
 
-## 🐍 Contribution Snake Animation
+## 🐍 Contribution Snake
 
 <div align="center">
   
@@ -164,21 +167,11 @@ My personal portfolio showcasing projects and skills.
   
 </div>
 
-## 🔥 Contribution Heatmap
+## 🌍 Profile Views
 
 <div align="center">
   
-  <img src="https://ghchart.rshah.org/redeyessssss" alt="GitHub Contribution Chart" width="100%"/>
-  
-</div>
-
-## 🌍 Visitor Map & Analytics
-
-<div align="center">
-  
-  ![Visitor Map](https://profile-counter.glitch.me/redeyessssss/count.svg)
-  
-  <img src="https://visitcount.itsvg.in/api?id=redeyessssss&icon=5&color=6" alt="Visit Count"/>
+  <img src="https://visitcount.itsvg.in/api?id=redeyessssss&label=Profile%20Views&color=12&icon=5&pretty=true" alt="Visit Count"/>
   
 </div>
 

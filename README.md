@@ -143,14 +143,6 @@ I'm a passionate developer focused on building innovative solutions that solve r
   
 </div>
 
-## 🏆 GitHub Achievements
-
-<div align="center">
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=redeyessssss&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=6" alt="GitHub Trophies" width="100%"/>
-  
-</div>
-
 ## 🎯 Detailed GitHub Stats
 
 <div align="center">

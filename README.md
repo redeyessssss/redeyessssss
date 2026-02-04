@@ -11,33 +11,85 @@
 
 ## 🚀 About Me
 
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
 I'm a passionate developer focused on building innovative solutions that solve real-world problems. From security systems to web applications, I love exploring new technologies and creating impactful projects.
 
-- 🔭 Currently working on smart security solutions and web applications
-- 🌱 Learning advanced AI/ML and full-stack development
-- 💡 Interested in computer vision, web development, and automation
-- 📫 Reach me at: [Your Email]
+- 🔭 Currently working on **smart security solutions** and **web applications**
+- 🌱 Learning **advanced AI/ML** and **full-stack development**
+- 💡 Interested in **computer vision**, **web development**, and **automation**
+- 👨‍� All of my projects are available at [GitHub](https://github.com/redeyessssss)
+- 💬 Ask me about **Python, JavaScript, React, Node.js, Computer Vision**
+- �📫 Reach me at: **[Your Email]**
+- ⚡ Fun fact: **I think I'm funny but my code disagrees** 😄
 
 ## 🛠️ Tech Stack
+
+<div align="center">
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### AI/ML & Computer Vision
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
 ### Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+
+</div>
+
+<div align="center">
+  
+  ![Tech Stack](https://skillicons.dev/icons?i=python,js,react,nodejs,html,css,tailwind,mongodb,mysql,git,github,vscode,docker,firebase,opencv&perline=8)
+  
+</div>
 
 ## 🌟 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/redeyessssss/timetrap">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=redeyessssss&repo=timetrap&theme=radical&hide_border=true" />
+</a>
+
+<a href="https://github.com/redeyessssss/QuickServe">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=redeyessssss&repo=QuickServe&theme=radical&hide_border=true" />
+</a>
+
+<a href="https://github.com/redeyessssss/Portfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=redeyessssss&repo=Portfolio&theme=radical&hide_border=true" />
+</a>
+
+<a href="https://github.com/redeyessssss/shareflow">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=redeyessssss&repo=shareflow&theme=radical&hide_border=true" />
+</a>
+
+</div>
 
 ### 🔐 [TimeTrap](https://github.com/redeyessssss/timetrap)
 Smart PC Lock System for macOS with facial recognition security. Automatically locks your Mac when you're away or detects unauthorized users.
@@ -58,11 +110,21 @@ My personal portfolio showcasing projects and skills.
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=redeyessssss&show_icons=true&theme=radical&hide_border=true&count_private=true)
+  <img src="https://github-readme-stats.vercel.app/api?username=redeyessssss&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=redeyessssss&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=redeyessssss&layout=compact&theme=radical&hide_border=true)
+</div>
+
+<div align="center">
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=redeyessssss&theme=radical&hide_border=true)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=redeyessssss&theme=radical&hide_border=true" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=redeyessssss&theme=radical&hide_border=true&layout=compact" alt="WakaTime Stats" width="48%"/>
+  
+</div>
+
+<div align="center">
+  
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=redeyessssss&theme=radical)
   
 </div>
 
@@ -70,7 +132,15 @@ My personal portfolio showcasing projects and skills.
 
 <div align="center">
   
-  ![Trophies](https://github-profile-trophy.vercel.app/?username=redeyessssss&theme=radical&no-frame=true&no-bg=true&row=1&column=7)
+  ![Trophies](https://github-profile-trophy.vercel.app/?username=redeyessssss&theme=radical&no-frame=true&no-bg=true&row=2&column=6&margin-w=15&margin-h=15)
+  
+</div>
+
+## 🎯 GitHub Metrics
+
+<div align="center">
+  
+  <img src="https://metrics.lecoq.io/redeyessssss?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&lines=1&people=1&activity=1&achievements=1&notable=1&discussions=1&followup=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&discussions.categories=true&followup.sections=repositories&config.timezone=Asia%2FKolkata" alt="GitHub Metrics" width="100%"/>
   
 </div>
 
@@ -99,6 +169,16 @@ My personal portfolio showcasing projects and skills.
 <div align="center">
   
   <img src="https://ghchart.rshah.org/redeyessssss" alt="GitHub Contribution Chart" width="100%"/>
+  
+</div>
+
+## 🌍 Visitor Map & Analytics
+
+<div align="center">
+  
+  ![Visitor Map](https://profile-counter.glitch.me/redeyessssss/count.svg)
+  
+  <img src="https://visitcount.itsvg.in/api?id=redeyessssss&icon=5&color=6" alt="Visit Count"/>
   
 </div>
 

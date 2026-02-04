@@ -74,7 +74,25 @@ My personal portfolio showcasing projects and skills.
 
 ## 📈 Contribution Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=redeyessssss&theme=react-dark&hide_border=true)
+<div align="center">
+  
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=redeyessssss&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph)
+  
+</div>
+
+## 🐍 Watch My Contributions Get Eaten!
+
+<div align="center">
+  
+  ![Snake animation](https://raw.githubusercontent.com/redeyessssss/redeyessssss/output/github-contribution-grid-snake.svg)
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/redeyessssss/redeyessssss/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/redeyessssss/redeyessssss/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/redeyessssss/redeyessssss/output/github-contribution-grid-snake.svg">
+  </picture>
+  
+</div>
 
 ## 💻 Recent Activity
 
@@ -226,6 +244,6 @@ Other        30 mins         █░░░░░░░░░░░░░░░░
   
   ### 💡 "Code is like humor. When you have to explain it, it's bad." – Cory House
   
-  ![Snake animation](https://github.com/redeyessssss/redeyessssss/blob/output/github-contribution-grid-snake.svg)
+  ### ⚡ Thanks for visiting! Let's connect and build something amazing together! ⚡
   
 </div>

@@ -124,14 +124,16 @@ I'm a passionate developer focused on building innovative solutions that solve r
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=redeyessssss&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=redeyessssss&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
+  <a href="https://github.com/redeyessssss">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=redeyessssss&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=redeyessssss&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  </a>
   
 </div>
 
 <div align="center">
   
-  <img src="https://streak-stats.demolab.com/?user=redeyessssss&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%"/>
+  <img src="https://streak-stats.demolab.com?user=redeyessssss&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" width="100%"/>
   
 </div>
 
@@ -141,11 +143,11 @@ I'm a passionate developer focused on building innovative solutions that solve r
   
 </div>
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <div align="center">
   
-  ![Trophies](https://github-profile-trophy.vercel.app/?username=redeyessssss&theme=radical&no-frame=true&no-bg=true&row=2&column=6&margin-w=15&margin-h=15)
+  <img src="https://github-profile-trophy.vercel.app/?username=redeyessssss&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=6" alt="GitHub Trophies" width="100%"/>
   
 </div>
 

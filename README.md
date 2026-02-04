@@ -71,59 +71,73 @@ I'm a passionate developer focused on building innovative solutions that solve r
 
 ## 🌟 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/redeyessssss/timetrap">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=redeyessssss&repo=timetrap&theme=radical&hide_border=true" />
-</a>
-
-<a href="https://github.com/redeyessssss/QuickServe">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=redeyessssss&repo=QuickServe&theme=radical&hide_border=true" />
-</a>
-
-<a href="https://github.com/redeyessssss/Portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=redeyessssss&repo=Portfolio&theme=radical&hide_border=true" />
-</a>
-
-<a href="https://github.com/redeyessssss/shareflow">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=redeyessssss&repo=shareflow&theme=radical&hide_border=true" />
-</a>
-
-</div>
-
 ### 🔐 [TimeTrap](https://github.com/redeyessssss/timetrap)
-Smart PC Lock System for macOS with facial recognition security. Automatically locks your Mac when you're away or detects unauthorized users.
-- **Tech:** Python, Computer Vision, Face Recognition
-- **Features:** Real-time face detection, automatic locking, settings GUI
+> Smart PC Lock System for macOS with facial recognition security. Automatically locks your Mac when you're away or detects unauthorized users.
+
+**Tech Stack:** `Python` `Computer Vision` `Face Recognition` `OpenCV`
+
+**Key Features:**
+- ✨ Real-time face detection
+- 🔒 Automatic locking system
+- ⚙️ Settings GUI
+- 🎯 Unauthorized user detection
+
+---
 
 ### 🏠 [QuickServe](https://github.com/redeyessssss/QuickServe)
-Home service platform where users can order daily essentials and request helping hands.
-- **Tech:** JavaScript, Web Development
-- **Features:** Service booking, product ordering, user management
+> Home service platform where users can order daily essentials and request helping hands.
+
+**Tech Stack:** `JavaScript` `Node.js` `Express` `MongoDB`
+
+**Key Features:**
+- 📦 Service booking system
+- 🛒 Product ordering
+- 👤 User management
+- 💳 Payment integration
+
+---
 
 ### 💼 [Portfolio](https://github.com/redeyessssss/Portfolio)
-My personal portfolio showcasing projects and skills.
-- **Tech:** Web Technologies
-- **Purpose:** Professional showcase
+> My personal portfolio showcasing projects and skills.
+
+**Tech Stack:** `HTML` `CSS` `JavaScript` `React`
+
+**Purpose:** Professional showcase of work and achievements
+
+---
+
+### 🔄 [ShareFlow](https://github.com/redeyessssss/shareflow)
+> File sharing and collaboration platform
+
+**Tech Stack:** `JavaScript` `Web Technologies`
+
+<div align="center">
+
+[![TimeTrap](https://img.shields.io/badge/View-TimeTrap-blue?style=for-the-badge&logo=github)](https://github.com/redeyessssss/timetrap)
+[![QuickServe](https://img.shields.io/badge/View-QuickServe-green?style=for-the-badge&logo=github)](https://github.com/redeyessssss/QuickServe)
+[![Portfolio](https://img.shields.io/badge/View-Portfolio-orange?style=for-the-badge&logo=github)](https://github.com/redeyessssss/Portfolio)
+[![ShareFlow](https://img.shields.io/badge/View-ShareFlow-red?style=for-the-badge&logo=github)](https://github.com/redeyessssss/shareflow)
+
+</div>
 
 ## 📊 GitHub Stats
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=redeyessssss&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=redeyessssss&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=redeyessssss&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=redeyessssss&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
   
 </div>
 
 <div align="center">
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=redeyessssss&theme=radical&hide_border=true" alt="GitHub Streak" width="100%"/>
+  <img src="https://streak-stats.demolab.com/?user=redeyessssss&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%"/>
   
 </div>
 
 <div align="center">
   
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=redeyessssss&theme=radical)
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=redeyessssss&theme=tokyonight" width="100%"/>
   
 </div>
 
@@ -139,11 +153,11 @@ My personal portfolio showcasing projects and skills.
 
 <div align="center">
   
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=redeyessssss&theme=radical)
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=redeyessssss&theme=radical)
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=redeyessssss&theme=tokyonight" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=redeyessssss&theme=tokyonight" width="48%"/>
   
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=redeyessssss&theme=radical)
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=redeyessssss&theme=radical)
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=redeyessssss&theme=tokyonight" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=redeyessssss&theme=tokyonight" width="48%"/>
   
 </div>
 
@@ -171,7 +185,7 @@ My personal portfolio showcasing projects and skills.
 
 <div align="center">
   
-  <img src="https://visitcount.itsvg.in/api?id=redeyessssss&label=Profile%20Views&color=12&icon=5&pretty=true" alt="Visit Count"/>
+  ![](https://komarev.com/ghpvc/?username=redeyessssss&label=Profile%20Views&color=brightgreen&style=flat-square)
   
 </div>
 
